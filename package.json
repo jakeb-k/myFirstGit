@@ -1,0 +1,22 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "my first git node repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeb-k/myFirstGit.git"
+  },
+  "keywords": [
+    "4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakeb-k/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/jakeb-k/myFirstGit#readme"
+}
